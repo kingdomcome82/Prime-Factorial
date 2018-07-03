@@ -1,1 +1,3 @@
-//code goes here
+function getPrimes() {
+  console.log('working');
+}
